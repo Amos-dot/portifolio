@@ -13,14 +13,6 @@ header {
 
 }
 
-h1{
-
-    font-family: 'Ubuntu, Arial', sans-serif;
-    color: rgb(33, 221, 254);
-    font-size: 40px;
-    text-shadow: 5px 5px 2px rgb(16, 19, 10);
-}
-
 nav {
     text-align: right;
 
@@ -35,13 +27,6 @@ a {
     text-decoration: none;
     margin-right: 30px;
 
-
-
-}
-h2{
-    font-family: 'Ubuntu, Arial', sans-serif;
-    font-size: 50px;
-    color: #F25A70;
 }
 
 #button {
