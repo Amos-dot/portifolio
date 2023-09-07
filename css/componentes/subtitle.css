@@ -1,6 +1,8 @@
-h2{
+.subtitle{
+
+
     font-family: 'Ubuntu, Arial', sans-serif;
     font-size: 50px;
     color: #F25A70;
-    
+    text-shadow: 5px 5px 2px rgb(16, 19, 10);
 }
