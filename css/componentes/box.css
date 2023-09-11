@@ -1,9 +1,10 @@
 .box {
     display: inline-block;
-    background-color: rgb(51, 51, 51);
+    background-color: rgba(58,64,66,1);
     box-shadow: 10px 10px 0px #000; 
+    margin: 120px 90px;
     text-align: center;
-    padding: 42px 44px;
+    padding: 42px 94px;
 
 }
 .box h2{
