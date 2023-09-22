@@ -1,0 +1,15 @@
+.skill-tec{
+    display: flex;
+    font-family: 'Ubuntu, Arial', sans-serif;
+    font-size: 25px;
+    color: #ffff;
+}
+.skill-tec .inco {
+    margin-right: 25px;
+}
+.skill-tec .right{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+
+}
