@@ -1,0 +1,18 @@
+.main-projetos{
+    display:flex;
+    justify-content: space-around;
+    
+    
+     
+}
+.firedlabs, .collabcode{
+   
+    background-color: #7C5E99;
+    box-shadow: 10px 10px 0px 0px rgb(255, 255, 255);
+    width: 280px;
+    padding: 25px;
+   
+}
+.collabcode.-second{
+    background-color: aquamarine;
+}
