@@ -16,3 +16,9 @@
     border-bottom: 10px solid #7c5e99;
 
 }
+.main-section.-bdblack{
+    background-color: black;
+}
+.main-section.-bgfirst{
+    border-color: #7c5e99;
+}
