@@ -9,8 +9,8 @@
 
 }
 .action::before {
-     content: "";
-     background-color: brown;
-     width: 10px;
-     height: 10px;
+    content: "";
+    background-color: brown;
+    width: 10px;
+    height: 10px;
 }

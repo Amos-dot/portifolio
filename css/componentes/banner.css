@@ -15,9 +15,9 @@
     width: 640px;
 
 }
- .banner .navigation{
+.banner .navigation{
     display:flex ;
     justify-content: space-around;
 
 
- }
+}
